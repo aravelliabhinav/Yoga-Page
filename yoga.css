@@ -1,0 +1,104 @@
+
+.yoga-back {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.yoga-head {
+    color: #132d84;
+    font-size: 25px;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: bold;
+    padding: 40px;
+}
+
+.yoga-girl {
+    height: 270px;
+    width: 220px;
+    margin-top: 80px;
+}
+
+.yoga-para {
+    color: #132d84;
+    font-size: 18px;
+}
+
+.yoga-button {
+    background-color: #132d84;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    height: 35px;
+    width: 100px;
+}
+
+.secound-yoga-back {
+    background-color: #ffedcb;
+    height: 1100px;
+    background-size: cover;
+
+}
+
+.secound-yoga-girl {
+    height: 230px;
+    width: 220px;
+    margin-top: 50px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.secound-yoga-head {
+    color: #132d84;
+    font-size: 25px;
+    font-family: "Roboto";
+    text-align: center;
+    margin: 20px;
+}
+
+.card-1 {
+    background-color: #ffe2ab;
+    height: 150px;
+    width: 370px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.card-1-image {
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.card-1-head {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #253263;
+}
+
+.card-1-para {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #253263;
+}
+
+.card-adjust {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.secound-button {
+    background-color: #132d84;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    height: 35px;
+    width: 100px;
+    margin-left: 170px;
+    margin-top: 40px;
+}
+

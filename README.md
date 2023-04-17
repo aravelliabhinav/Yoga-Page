@@ -1,4 +1,5 @@
 # yoga-page
+(different types of yoga)
 Yoga page with the front-end interface
 link to project
 
